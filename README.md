@@ -47,6 +47,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 ## 🗂️ Highlighted Repositories
 
 [![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=SpotifyClone&theme=radical)](https://github.com/zeynalnicat/SpotifyClone)
+
 [![Travel AI](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=TravelAI&theme=radical)](https://github.com/zeynalnicat/TravelAI)
 
 
