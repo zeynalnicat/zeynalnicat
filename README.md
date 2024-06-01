@@ -1,4 +1,4 @@
-# Hi there, I'm Zeynal Nicat 👋
+# Hi there, I'm Zeynalli Nijat 👋
 
 ![Profile Banner](https://path/to/your/banner/image)
 
