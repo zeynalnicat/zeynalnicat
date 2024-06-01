@@ -42,7 +42,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeynalnicat&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zeynalnicat&theme=react-dark)
 
 
 
