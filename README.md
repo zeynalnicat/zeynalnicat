@@ -1,6 +1,6 @@
 # Hi there, I'm Zeynalli Nijat 👋
 
-![Profile Banner]![79731568097599 5b50bca477735](https://github.com/zeynalnicat/zeynalnicat/assets/65115194/e281838c-be03-4275-93f4-ff3f75036c89)
+![79731568097599 5b50bca477735](https://github.com/zeynalnicat/zeynalnicat/assets/65115194/e281838c-be03-4275-93f4-ff3f75036c89)
 
 
 I'm a passionate software developer with expertise in multiple programming languages and frameworks. I enjoy creating innovative solutions and contributing to the open-source community.
@@ -37,12 +37,8 @@ I'm a passionate software developer with expertise in multiple programming langu
 ## ✨ Projects
 
 ### Project Name
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=project-repo-name&theme=radical)](https://github.com/zeynalnicat/project-repo-name)
-- Description of the project.
-
-### Another Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=another-project-repo-name&theme=radical)](https://github.com/zeynalnicat/another-project-repo-name)
-- Description of the project.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=project-repo-name&theme=radical)](https://github.com/zeynalnicat/QRCode)
+- A flutter app for creating and reading Qr codes .
 
 ## 📊 Contribution Graph
 
@@ -50,8 +46,8 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 ## 🗂️ Highlighted Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=repo-1&theme=radical)](https://github.com/zeynalnicat/repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=repo-2&theme=radical)](https://github.com/zeynalnicat/repo-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=repo-1&theme=radical)](https://github.com/zeynalnicat/SpotifyClone)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=repo-2&theme=radical)](https://github.com/zeynalnicat/TravelAI)
 
 ## 📫 How to reach me
 
