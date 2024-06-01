@@ -1,6 +1,6 @@
 # Hi there, I'm Zeynalli Nijat 👋
 
-![Profile Banner](https://path/to/your/banner/image)
+![Profile Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw0KfGjuRzWZDt7xeZbQJNNT&ust=1717329375165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjrlcqsuoYDFQAAAAAdAAAAABAN)
 
 I'm a passionate software developer with expertise in multiple programming languages and frameworks. I enjoy creating innovative solutions and contributing to the open-source community.
 
