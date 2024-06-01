@@ -37,7 +37,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 ## ✨ Projects
 
 ### Project Name
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=project-repo-name&theme=radical)](https://github.com/zeynalnicat/QRCode)
+(https://github.com/zeynalnicat/QRCode)
 - A flutter app for creating and reading Qr codes .
 
 ## 📊 Contribution Graph
@@ -46,8 +46,8 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 ## 🗂️ Highlighted Repositories
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=repo-1&theme=radical)](https://github.com/zeynalnicat/SpotifyClone)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=zeynalnicat&repo=repo-2&theme=radical)](https://github.com/zeynalnicat/TravelAI)
+[![Repo 1](https://github.com/zeynalnicat/SpotifyClone)
+[![Repo 2](https://github.com/zeynalnicat/TravelAI)
 
 ## 📫 How to reach me
 
