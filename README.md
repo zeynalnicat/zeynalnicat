@@ -58,5 +58,6 @@ I'm a passionate software developer with expertise in multiple programming langu
 - Email: [nicatt.zeynalli@gmail.com](mailto:nicatt.zeynalli@gmail.com)
 - LinkedIn: [Nicat Zeynalli](https://www.linkedin.com/in/nicat-zeynalli-9295b2289/)
 - Instagram: [@affuross](https://www.instagram.com/affuross/)
+- Website: [nijatzeynalli.vercel.app](https://nijatzeynalli.vercel.app/)
 
 ---
