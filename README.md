@@ -1,9 +1,9 @@
-# Hi there, I'm Zeynalli Nijat 👋
+# Hi there, I'm Nijat Zeynalli 👋
 
 ![79731568097599 5b50bca477735](https://github.com/zeynalnicat/zeynalnicat/assets/65115194/e281838c-be03-4275-93f4-ff3f75036c89)
 
 
-I'm a passionate software developer with expertise in multiple programming languages and frameworks. I enjoy creating innovative solutions and contributing to the open-source community.
+I'm a passionate mobile developer with expertise in multiple programming languages and frameworks. I enjoy creating innovative solutions and contributing to the open-source community.
 
 ## 🔧 Technologies & Tools
 
