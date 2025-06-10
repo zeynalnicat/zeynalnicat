@@ -56,7 +56,7 @@ I'm a passionate mobile developer with expertise in multiple programming languag
 ## 📫 How to reach me
 
 - Email: [nicatt.zeynalli@gmail.com](mailto:nicatt.zeynalli@gmail.com)
-- LinkedIn: [Nicat Zeynalli](https://www.linkedin.com/in/nicat-zeynalli-9295b2289/)
+- LinkedIn: [Nicat Zeynalli](https://www.linkedin.com/in/nijat-zeynalli-9295b2289/)
 - Instagram: [@affuross](https://www.instagram.com/affuross/)
 - Website: [nijatzeynalli.vercel.app](https://nijatzeynalli.vercel.app/)
 
